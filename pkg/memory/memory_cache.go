@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/jaypipes/ghw/pkg/unitutil"
+	"github.com/Zzorz/ghw/pkg/unitutil"
 )
 
 type CacheType int

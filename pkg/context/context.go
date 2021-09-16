@@ -7,8 +7,8 @@
 package context
 
 import (
-	"github.com/jaypipes/ghw/pkg/option"
-	"github.com/jaypipes/ghw/pkg/snapshot"
+	"github.com/Zzorz/ghw/pkg/option"
+	"github.com/Zzorz/ghw/pkg/snapshot"
 )
 
 // Concrete merged set of configuration switches that act as an execution

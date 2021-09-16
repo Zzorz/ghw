@@ -13,12 +13,12 @@ import (
 
 	"github.com/jaypipes/pcidb"
 
-	"github.com/jaypipes/ghw/pkg/context"
-	"github.com/jaypipes/ghw/pkg/marshal"
-	"github.com/jaypipes/ghw/pkg/option"
-	pciaddr "github.com/jaypipes/ghw/pkg/pci/address"
-	"github.com/jaypipes/ghw/pkg/topology"
-	"github.com/jaypipes/ghw/pkg/util"
+	"github.com/Zzorz/ghw/pkg/context"
+	"github.com/Zzorz/ghw/pkg/marshal"
+	"github.com/Zzorz/ghw/pkg/option"
+	pciaddr "github.com/Zzorz/ghw/pkg/pci/address"
+	"github.com/Zzorz/ghw/pkg/topology"
+	"github.com/Zzorz/ghw/pkg/util"
 )
 
 // backward compatibility, to be removed in 1.0.0

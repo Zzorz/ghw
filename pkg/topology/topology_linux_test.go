@@ -10,10 +10,10 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/jaypipes/ghw/pkg/option"
-	"github.com/jaypipes/ghw/pkg/topology"
+	"github.com/Zzorz/ghw/pkg/option"
+	"github.com/Zzorz/ghw/pkg/topology"
 
-	"github.com/jaypipes/ghw/testdata"
+	"github.com/Zzorz/ghw/testdata"
 )
 
 // nolint: gocyclo

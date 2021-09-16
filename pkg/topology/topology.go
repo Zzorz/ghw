@@ -11,11 +11,11 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/jaypipes/ghw/pkg/context"
-	"github.com/jaypipes/ghw/pkg/cpu"
-	"github.com/jaypipes/ghw/pkg/marshal"
-	"github.com/jaypipes/ghw/pkg/memory"
-	"github.com/jaypipes/ghw/pkg/option"
+	"github.com/Zzorz/ghw/pkg/context"
+	"github.com/Zzorz/ghw/pkg/cpu"
+	"github.com/Zzorz/ghw/pkg/marshal"
+	"github.com/Zzorz/ghw/pkg/memory"
+	"github.com/Zzorz/ghw/pkg/option"
 )
 
 // Architecture describes the overall hardware architecture. It can be either

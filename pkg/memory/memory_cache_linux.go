@@ -15,9 +15,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/jaypipes/ghw/pkg/context"
-	"github.com/jaypipes/ghw/pkg/linuxpath"
-	"github.com/jaypipes/ghw/pkg/unitutil"
+	"github.com/Zzorz/ghw/pkg/context"
+	"github.com/Zzorz/ghw/pkg/linuxpath"
+	"github.com/Zzorz/ghw/pkg/unitutil"
 )
 
 func CachesForNode(ctx *context.Context, nodeID int) ([]*Cache, error) {

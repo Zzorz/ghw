@@ -9,10 +9,10 @@ package baseboard
 import (
 	"fmt"
 
-	"github.com/jaypipes/ghw/pkg/context"
-	"github.com/jaypipes/ghw/pkg/marshal"
-	"github.com/jaypipes/ghw/pkg/option"
-	"github.com/jaypipes/ghw/pkg/util"
+	"github.com/Zzorz/ghw/pkg/context"
+	"github.com/Zzorz/ghw/pkg/marshal"
+	"github.com/Zzorz/ghw/pkg/option"
+	"github.com/Zzorz/ghw/pkg/util"
 )
 
 // Info defines baseboard release information

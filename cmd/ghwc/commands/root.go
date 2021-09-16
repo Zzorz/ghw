@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jaypipes/ghw"
+	"github.com/Zzorz/ghw"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )
@@ -51,7 +51,7 @@ var rootCmd = &cobra.Command{
 
 Discover hardware information.
 
-https://github.com/jaypipes/ghw
+https://github.com/Zzorz/ghw
 `,
 	RunE: showAll,
 }

@@ -13,7 +13,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/jaypipes/ghw/pkg/snapshot"
+	"github.com/Zzorz/ghw/pkg/snapshot"
 )
 
 const (

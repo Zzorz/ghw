@@ -9,7 +9,7 @@ package option_test
 import (
 	"testing"
 
-	"github.com/jaypipes/ghw/pkg/option"
+	"github.com/Zzorz/ghw/pkg/option"
 )
 
 type optTestCase struct {
